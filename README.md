@@ -1,5 +1,5 @@
 # independent-study
-Ford Rx Study with Lauren Marie Aquino Shluzas
+Ford Rx Study with Lauren Marie Aquino Shluzas, So Yeon Park, and Kali Cornn
 
 Pre-Ride Survey Analysis:
 https://nbviewer.jupyter.org/github/amurphhh/independent-study/blob/master/Pre-Ride.ipynb
